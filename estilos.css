@@ -1,0 +1,148 @@
+body {
+    width: 1920px;
+    height: 1150px;
+    background-color: rgb(0, 0, 0);
+
+    border: 5px solid white;
+    color: white;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+footer{
+    display: flex;
+    justify-content: flex-end
+}
+#barrarosa{
+    width: 813px;
+    height: 55px;
+    background-color:#FD1EBD;
+    margin-top: 71px;
+    margin-bottom: 48px;
+}
+#barraamarrilla{
+    width: 643px;
+    height: 55px;
+    background-color:#FFFD38;
+}
+.Primerasection{
+    border-left: 2px white solid;
+    width: 725px;
+    height: 746px;
+    flex-shrink: 0;
+    margin-left: 61px;
+    padding-left: 71px;
+}
+#practice{
+    color: rgba(255, 255, 255, 0.30);
+    font-family:'Inter', sans-serif;;
+    font-size: 50.4px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#Ui{
+    color: #FFF;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 289.846px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: relative;
+    bottom: 54px;
+
+}
+#Prac{
+    color: #FFF;
+    font-family: Space Grotesk;
+    font-size: 163.445px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    bottom: 115px;
+}
+.DesignedloveXimg{
+    display: flex;
+    position: relative;
+    bottom: 100px;
+}
+#Designed{
+    color: #FFF;
+    font-family: Space Grotesk;
+    font-size: 43.493px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#Espiral{
+    padding-left: 17px;
+}
+.TomasbelbrunoXImg{
+    display: flex;
+    position: relative;
+    bottom: 50px;
+}
+.TomasbelbrunoXImg a{
+    color: #FFFD38;
+    font-family: Space Grotesk;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+.Contendor-palabras{
+    display: flex;
+    
+}
+.cuatroyflechas{
+  position: relative;
+  right: 20px;
+  left: 10px;
+  top: 220px;
+}
+#numerocuatro{
+    height: 150px;
+}
+.Designers-NewbiesIntermediate{
+    padding-top: 350px;
+
+}
+#Designers{
+    color: #FFF;
+    font-family: 'Dancing Script', cursive;
+    font-size: 163.455px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    /* border: red solid 2px; */
+}
+#NewbiesIntermediate{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Space Grotesk;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    bottom: 75px;
+    right: 295px; 
+}
+#amarrillochico{
+    background-color: #FFFD38;
+    width: 121.746px;
+    height: 33.835px;
+    position: relative;
+    top: 38px;
+    left: 124px;
+    z-index: -1;
+    
+}
+#estrella{
+    position: relative;
+    bottom: 69px;
+    margin-right: 81px;
+}
